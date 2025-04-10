@@ -38,10 +38,3 @@ git clone https://github.com/your-username/llama2-rag-app.git
 cd llama2-rag-app
 
 
-
-
-
-
-
-![image](https://github.com/user-attachments/assets/8705c741-ca24-4a94-b3ff-87597221169d)
-
