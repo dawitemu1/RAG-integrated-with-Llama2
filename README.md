@@ -1,4 +1,4 @@
-# 🧠 Local RAG System with LLaMA 2, FAISS, and Multimodal Support
+# 🧠 Local RAG System with LLaMA 2, and Multimodal Support
 
 This project implements a **Retrieval-Augmented Generation (RAG)** pipeline using **LLaMA 2**. It supports processing **PDF, DOCX, and image files**, converts their contents into vector embeddings, stores them in **FAISS**, and retrieves semantically relevant documents to power intelligent Q&A using an LLM.
 
@@ -36,3 +36,6 @@ This project implements a **Retrieval-Augmented Generation (RAG)** pipeline usin
 ```bash
 git clone https://github.com/your-username/llama2-rag-app.git
 cd llama2-rag-app
+
+
+![image](https://github.com/user-attachments/assets/7c9b61fe-4c46-45d4-bbb7-eab73af468a2)
